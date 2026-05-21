@@ -26,31 +26,23 @@ The dashboard was built using the following tools and technologies:
 📊 E-commerce transactional dataset
 🌐 Source: https://drive.google.com/drive/folders/1mY0agiWajOKDelUjIAADWMbB0q6kSz2p
 
-Sales transactions (amount, profit, quantity)
-Customer details
-Product categories & sub-categories
-Region/state information
-Payment mode data
-Monthly time-series sales data
+Detail transactions Dataset ( Amount, Profit, Quantity, Paymentmode, Category, Orderid, AOV )
+Orders transactions Dataset ( City, Customer Name, Order date, OrderId, State )
 
 **5. Features**
 
-• Business Problem
+**• Business Problem**
 E-commerce businesses generate large volumes of transaction data, but it is often difficult to identify which regions, customers, and product categories drive profit and which areas underperform.
 
-Key questions include:
+**Key questions include:**
 
 Which states generate the highest profit? 
-
 Which product categories are most profitable?
-
 How does monthly profit fluctuate?
-
 Which customers contribute the most revenue?
-
 Which payment modes are most used?
 
-• Goal of the Dashboard
+**• Goal of the Dashboard**
 
 To build an interactive analytical tool that:
 
@@ -59,9 +51,9 @@ Identifies top-performing products, customers, and regions
 Highlights profit trends across time
 Helps improve business decision-making and strategy
 
-• Walkthrough of Key Visuals
+**• Walkthrough of Key Visuals**
 
-• KPI Cards (Top Section)
+**• KPI Cards (Top Section)**
 Displays key business metrics:
 
 Total Sales Amount: 438K
@@ -69,25 +61,25 @@ Total Profit: 37K
 Total Quantity Sold: 6K
 Average Order Value (AOV): 121K
 
-• Profit by Sub-Category (Bar Chart – Left)
+**• Profit by Sub-Category (Bar Chart – Left)**
 Shows profitability across states like Maharashtra, Madhya Pradesh, Delhi, etc., helping identify high and low-performing regions.
 
-• Quantity by Category (Donut Chart)
+**• Quantity by Category (Donut Chart)**
 Represents distribution of total quantity sold across product categories (e.g., 63%, 21%, 17%).
 
-• Monthly Profit Trend (Column Chart)
+**• Monthly Profit Trend (Column Chart)**
 Tracks monthly profit fluctuations, highlighting seasonal trends and loss-making months.
 
-• Customer-wise Sales (Bar Chart)
+**• Customer-wise Sales (Bar Chart)**
 Compares revenue contribution from top customers such as Harivansh, Madhav, and others.
 
-• Payment Mode Analysis (Donut Chart)
+**• Payment Mode Analysis (Donut Chart)**
 Shows distribution of transactions across different payment methods, identifying customer payment preferences.
 
-• Profit by Sub-Category (Bottom Right Bar Chart)
+**• Profit by Sub-Category (Bottom Right Bar Chart)**
 Highlights product-level profitability such as Printers, Bookcases, Saree, Accessories, etc.
 
-• Business Impact & Insights
+**• Business Impact & Insights**
 Helps identify most profitable regions and products
 Improves inventory and marketing decisions
 Highlights underperforming categories for optimization
@@ -96,9 +88,9 @@ Enables better financial forecasting and planning
 
 **6. Screenshots**
 📊 Show what the dashboard looks like: 
-Whole Year Repo ![Whole Year Repo](https://github.com/syedmurtazaalee/E-Commerce-Sales-Dashboard/blob/main/Whole%20Year%20Repo.png)    
-Select with State ![Select with State](https://github.com/syedmurtazaalee/E-Commerce-Sales-Dashboard/blob/main/Select%20with%20State.png)
-Qtr 1 ![Qtr 1](https://github.com/syedmurtazaalee/E-Commerce-Sales-Dashboard/blob/main/Qtr%201.png)
-Qtr 2 ![Qtr 2](https://github.com/syedmurtazaalee/E-Commerce-Sales-Dashboard/blob/main/Qtr%202.png)
-Qtr 3 ![Qtr 3](https://github.com/syedmurtazaalee/E-Commerce-Sales-Dashboard/blob/main/Qtr%203.png)
-Qtr 4 ![Qtr 4](https://github.com/syedmurtazaalee/E-Commerce-Sales-Dashboard/blob/main/Qtr%204.png)
+• Whole Year Repo ![Whole Year Repo](https://github.com/syedmurtazaalee/E-Commerce-Sales-Dashboard/blob/main/Whole%20Year%20Repo.png)    
+• Select with State ![Select with State](https://github.com/syedmurtazaalee/E-Commerce-Sales-Dashboard/blob/main/Select%20with%20State.png)
+• Qtr 1 ![Qtr 1](https://github.com/syedmurtazaalee/E-Commerce-Sales-Dashboard/blob/main/Qtr%201.png)
+• Qtr 2 ![Qtr 2](https://github.com/syedmurtazaalee/E-Commerce-Sales-Dashboard/blob/main/Qtr%202.png)
+• Qtr 3 ![Qtr 3](https://github.com/syedmurtazaalee/E-Commerce-Sales-Dashboard/blob/main/Qtr%203.png)
+• Qtr 4 ![Qtr 4](https://github.com/syedmurtazaalee/E-Commerce-Sales-Dashboard/blob/main/Qtr%204.png)
