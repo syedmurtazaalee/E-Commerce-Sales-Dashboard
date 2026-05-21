@@ -16,11 +16,11 @@ It helps stakeholders quickly understand what drives revenue, which products and
 **3. Tech Stack**
 
 The dashboard was built using the following tools and technologies:
-• 📊 Power BI Desktop – Main visualization tool for building interactive dashboards
-• 📂 Power Query – Data cleaning, transformation, and preprocessing
-• 🧠 DAX (Data Analysis Expressions) – Used for KPIs, calculated measures, and dynamic insights
-• 🗂️ Data Modeling – Relationships created between sales, customer, and product tables
-• 📁 Data Format – Excel / CSV dataset processed into Power BI model
+<br>• 📊 Power BI Desktop – Main visualization tool for building interactive dashboards
+<br>• 📂 Power Query – Data cleaning, transformation, and preprocessing
+<br>• 🧠 DAX (Data Analysis Expressions) – Used for KPIs, calculated measures, and dynamic insights
+<br>• 🗂️ Data Modeling – Relationships created between sales, customer, and product tables
+<br>• 📁 Data Format – Excel / CSV dataset processed into Power BI model
 
 **4. Data Source**
 
