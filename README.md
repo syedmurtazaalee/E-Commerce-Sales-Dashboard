@@ -24,9 +24,8 @@ The dashboard was built using the following tools and technologies:
 
 **4. Data Source**
 
-📊 E-commerce transactional dataset
-
-🌐 Source: https://drive.google.com/drive/folders/1mY0agiWajOKDelUjIAADWMbB0q6kSz2p
+📊 E-commerce transactional dataset 
+<br>🌐 Source: https://drive.google.com/drive/folders/1mY0agiWajOKDelUjIAADWMbB0q6kSz2p
 
 Detail transactions Dataset ( Amount, Profit, Quantity, Paymentmode, Category, Orderid, AOV )
 <br> Orders transactions Dataset ( City, Customer Name, Order date, OrderId, State )
@@ -39,19 +38,19 @@ E-commerce businesses generate large volumes of transaction data, but it is ofte
 **Key questions include:**
 
 Which states generate the highest profit? 
-Which product categories are most profitable?
-How does monthly profit fluctuate?
-Which customers contribute the most revenue?
-Which payment modes are most used?
+<br>Which product categories are most profitable?
+<br>How does monthly profit fluctuate?
+<br>Which customers contribute the most revenue?
+<br>Which payment modes are most used?
 
 **• Goal of the Dashboard**
 
 To build an interactive analytical tool that:
 
 Tracks overall sales performance in real time
-Identifies top-performing products, customers, and regions
-Highlights profit trends across time
-Helps improve business decision-making and strategy
+<br>Identifies top-performing products, customers, and regions
+<br>Highlights profit trends across time
+<br>Helps improve business decision-making and strategy
 
 **• Walkthrough of Key Visuals**
 
@@ -59,34 +58,34 @@ Helps improve business decision-making and strategy
 Displays key business metrics:
 
 Total Sales Amount: 438K
-Total Profit: 37K
-Total Quantity Sold: 6K
-Average Order Value (AOV): 121K
+<br>Total Profit: 37K
+<br>Total Quantity Sold: 6K
+<br>Average Order Value (AOV): 121K
 
 **• Profit by Sub-Category (Bar Chart – Left)**
 Shows profitability across states like Maharashtra, Madhya Pradesh, Delhi, etc., helping identify high and low-performing regions.
-
+<br>
 **• Quantity by Category (Donut Chart)**
 Represents distribution of total quantity sold across product categories (e.g., 63%, 21%, 17%).
-
+<br>
 **• Monthly Profit Trend (Column Chart)**
 Tracks monthly profit fluctuations, highlighting seasonal trends and loss-making months.
-
+<br>
 **• Customer-wise Sales (Bar Chart)**
 Compares revenue contribution from top customers such as Harivansh, Madhav, and others.
-
+<br>
 **• Payment Mode Analysis (Donut Chart)**
 Shows distribution of transactions across different payment methods, identifying customer payment preferences.
-
+<br>
 **• Profit by Sub-Category (Bottom Right Bar Chart)**
 Highlights product-level profitability such as Printers, Bookcases, Saree, Accessories, etc.
-
+<br>
 **• Business Impact & Insights**
-Helps identify most profitable regions and products
-Improves inventory and marketing decisions
-Highlights underperforming categories for optimization
-Supports customer segmentation and targeting
-Enables better financial forecasting and planning
+<br>Helps identify most profitable regions and products
+<br>Improves inventory and marketing decisions
+<br>Highlights underperforming categories for optimization
+<br>Supports customer segmentation and targeting
+<br>Enables better financial forecasting and planning
 
 **6. Screenshots**
 📊 Show what the dashboard looks like: 
