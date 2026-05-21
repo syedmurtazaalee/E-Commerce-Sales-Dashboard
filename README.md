@@ -96,9 +96,9 @@ Enables better financial forecasting and planning
 
 **6. Screenshots**
 📊 Show what the dashboard looks like: 
-![Whole Year Repo](https://github.com/syedmurtazaalee/E-Commerce-Sales-Dashboard/blob/main/Whole%20Year%20Repo.png)    
-![Select with State](https://github.com/syedmurtazaalee/E-Commerce-Sales-Dashboard/blob/main/Select%20with%20State.png)
-![Qtr 1](https://github.com/syedmurtazaalee/E-Commerce-Sales-Dashboard/blob/main/Qtr%201.png)
-![Qtr 2](https://github.com/syedmurtazaalee/E-Commerce-Sales-Dashboard/blob/main/Qtr%202.png)
-![Qtr 3](https://github.com/syedmurtazaalee/E-Commerce-Sales-Dashboard/blob/main/Qtr%203.png)
-![Qtr 4](https://github.com/syedmurtazaalee/E-Commerce-Sales-Dashboard/blob/main/Qtr%204.png)
+Whole Year Repo ![Whole Year Repo](https://github.com/syedmurtazaalee/E-Commerce-Sales-Dashboard/blob/main/Whole%20Year%20Repo.png)    
+Select with State ![Select with State](https://github.com/syedmurtazaalee/E-Commerce-Sales-Dashboard/blob/main/Select%20with%20State.png)
+Qtr 1 ![Qtr 1](https://github.com/syedmurtazaalee/E-Commerce-Sales-Dashboard/blob/main/Qtr%201.png)
+Qtr 2 ![Qtr 2](https://github.com/syedmurtazaalee/E-Commerce-Sales-Dashboard/blob/main/Qtr%202.png)
+Qtr 3 ![Qtr 3](https://github.com/syedmurtazaalee/E-Commerce-Sales-Dashboard/blob/main/Qtr%203.png)
+Qtr 4 ![Qtr 4](https://github.com/syedmurtazaalee/E-Commerce-Sales-Dashboard/blob/main/Qtr%204.png)
