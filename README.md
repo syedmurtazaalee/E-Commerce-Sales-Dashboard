@@ -40,11 +40,16 @@ E-commerce businesses generate large volumes of transaction data, but it is ofte
 
 Key questions include:
 
-Which states generate the highest profit?
+Which states generate the highest profit? 
+
 Which product categories are most profitable?
+
 How does monthly profit fluctuate?
+
 Which customers contribute the most revenue?
+
 Which payment modes are most used?
+
 • Goal of the Dashboard
 
 To build an interactive analytical tool that:
@@ -53,6 +58,7 @@ Tracks overall sales performance in real time
 Identifies top-performing products, customers, and regions
 Highlights profit trends across time
 Helps improve business decision-making and strategy
+
 • Walkthrough of Key Visuals
 
 • KPI Cards (Top Section)
@@ -89,4 +95,10 @@ Supports customer segmentation and targeting
 Enables better financial forecasting and planning
 
 **6. Screenshots**
-📊 Show what the dashboard looks like: https://github.com/syedmurtazaalee/E-Commerce-Sales-Dashboard/blob/main/Whole%20Year%20Repo.png    
+📊 Show what the dashboard looks like: 
+• ![Whole Year Repo] https://github.com/syedmurtazaalee/E-Commerce-Sales-Dashboard/blob/main/Whole%20Year%20Repo.png    
+• ![Select with State] https://github.com/syedmurtazaalee/E-Commerce-Sales-Dashboard/blob/main/Select%20with%20State.png
+• ![Qtr 1] https://github.com/syedmurtazaalee/E-Commerce-Sales-Dashboard/blob/main/Qtr%201.png
+• ![Qtr 2] https://github.com/syedmurtazaalee/E-Commerce-Sales-Dashboard/blob/main/Qtr%202.png
+• ![Qtr 3] https://github.com/syedmurtazaalee/E-Commerce-Sales-Dashboard/blob/main/Qtr%203.png
+• ![Qtr 4] https://github.com/syedmurtazaalee/E-Commerce-Sales-Dashboard/blob/main/Qtr%204.png
