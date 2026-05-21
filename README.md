@@ -65,21 +65,27 @@ Total Sales Amount: 438K
 **• Profit by Sub-Category (Bar Chart – Left)**
 Shows profitability across states like Maharashtra, Madhya Pradesh, Delhi, etc., helping identify high and low-performing regions.
 <br>
+
 **• Quantity by Category (Donut Chart)**
 Represents distribution of total quantity sold across product categories (e.g., 63%, 21%, 17%).
 <br>
+
 **• Monthly Profit Trend (Column Chart)**
 Tracks monthly profit fluctuations, highlighting seasonal trends and loss-making months.
 <br>
+
 **• Customer-wise Sales (Bar Chart)**
 Compares revenue contribution from top customers such as Harivansh, Madhav, and others.
 <br>
+
 **• Payment Mode Analysis (Donut Chart)**
 Shows distribution of transactions across different payment methods, identifying customer payment preferences.
 <br>
+
 **• Profit by Sub-Category (Bottom Right Bar Chart)**
 Highlights product-level profitability such as Printers, Bookcases, Saree, Accessories, etc.
 <br>
+
 **• Business Impact & Insights**
 <br>Helps identify most profitable regions and products
 <br>Improves inventory and marketing decisions
@@ -88,7 +94,7 @@ Highlights product-level profitability such as Printers, Bookcases, Saree, Acces
 <br>Enables better financial forecasting and planning
 
 **6. Screenshots**
-📊 Show what the dashboard looks like: 
+📊 Show what the dashboard looks like: <br>
 • Whole Year Repo ![Whole Year Repo](https://github.com/syedmurtazaalee/E-Commerce-Sales-Dashboard/blob/main/Whole%20Year%20Repo.png)    
 • Select with State ![Select with State](https://github.com/syedmurtazaalee/E-Commerce-Sales-Dashboard/blob/main/Select%20with%20State.png)
 • Qtr 1 ![Qtr 1](https://github.com/syedmurtazaalee/E-Commerce-Sales-Dashboard/blob/main/Qtr%201.png)
